@@ -29,10 +29,8 @@
           <goals><goal>java</goal></goals>
         </execution></executions>
         <configuration>
-          <mainClass>edu.eci.cvds.patterns.App</mainClass>
-          <arguments>
-            <argument>Juan</argument>
-          </arguments>
+          <mainClass>edu.eci.cvds.patterns.shapes.ShapeMain</mainClass>
+          <arguments>Hexagon</arguments>
         </configuration>
       </plugin>
     </plugins>
